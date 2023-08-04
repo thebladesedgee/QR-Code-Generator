@@ -1,0 +1,13 @@
+C:\Users\SİY\Source\Repos\qrCode\qrCode\bin\Debug\qrCode.exe.config
+C:\Users\SİY\Source\Repos\qrCode\qrCode\bin\Debug\qrCode.exe
+C:\Users\SİY\Source\Repos\qrCode\qrCode\bin\Debug\qrCode.pdb
+C:\Users\SİY\Source\Repos\qrCode\qrCode\bin\Debug\QRCoder.dll
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.csproj.AssemblyReference.cache
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.Form1.resources
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.Properties.Resources.resources
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.csproj.GenerateResource.cache
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.csproj.CoreCompileInputs.cache
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.csproj.CopyComplete
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.exe
+C:\Users\SİY\Source\Repos\qrCode\qrCode\obj\Debug\qrCode.pdb
